@@ -7,7 +7,7 @@ CPU Scheduling Algorithm Simulator
 - Team Number: 02
 - Member 1: Chan Archvathanak
 - Member 2: Chhit Sovathana
-- Member 3: =Am Vathanak
+- Member 3: Am Vathanak
 
 ## Project Objective
 The objective of this project is to understand how CPU scheduling works in an operating system by simulating different scheduling algorithms. This simulator implements FCFS, SJF, SRT, Round Robin, and MLFQ, and compares their performance using Waiting Time, Turnaround Time, and Response Time.
