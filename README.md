@@ -65,5 +65,4 @@ For MLFQ:
 ```bash
 git clone https://github.com/Vathanakchanarch/OS-CPU-Scheduling-Team2.git
 cd OS-CPU-Scheduling-Team2
-
-### 2. 
+python OS-CPU-Scheduling-Team2.py
